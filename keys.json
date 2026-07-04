@@ -1,7 +1,7 @@
 {
-  "FV-FSPJ-6QO0": {
+  "FV-FSPJ-6Q00": {
     "used": true,
-    "hwid": "HWID-BFC2113",
+    "hwid": "HWD-BFC2113",
     "usedBy": "FrostVisual",
     "expires": "2026-07-11",
     "firstUsedAt": "2026-07-04T18:54:45.294Z"
@@ -34,16 +34,9 @@
     "used": false,
     "hwid": null,
     "usedBy": null,
-    "expires": "2026-07-05"
-  },
-  "FV-2QVK-EA14": {
-    "used": false, 
-    "hwid": null,
-    "usedBy": null,
     "expires": "2026-07-11",
     "isPublic": true
-  }
-  {
+  },
   "FV-7K9M-PQ5Z": {
     "used": false,
     "hwid": null,
@@ -51,5 +44,4 @@
     "expires": "2026-07-18",
     "isPublic": true
   }
-}
 }
