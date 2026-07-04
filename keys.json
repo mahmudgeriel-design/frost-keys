@@ -29,5 +29,11 @@
     "hwid": null,
     "usedBy": null,
     "expires": "2026-07-11"
+  },
+  "FV-Q9XH-IE78": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-05"
   }
 }
