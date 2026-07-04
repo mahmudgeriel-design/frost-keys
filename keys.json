@@ -22,5 +22,11 @@
     "hwid": null,
     "usedBy": null,
     "expires": "2026-07-12"
+  },
+  "FV-2637-0EZ7": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-11"
   }
 }
