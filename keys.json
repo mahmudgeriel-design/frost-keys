@@ -4,5 +4,11 @@
     "hwid": null,
     "usedBy": null,
     "expires": "2026-07-11"
+  },
+  "FV-RNHE-K75E": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-11"
   }
 }
