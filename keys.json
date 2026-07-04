@@ -37,10 +37,19 @@
     "expires": "2026-07-05"
   },
   "FV-2QVK-EA14": {
-    "used": false,
+    "used": false, 
     "hwid": null,
     "usedBy": null,
     "expires": "2026-07-11",
     "isPublic": true
   }
+  {
+  "FV-7K9M-PQ5Z": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-18",
+    "isPublic": true
+  }
+}
 }
