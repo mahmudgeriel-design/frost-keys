@@ -1,8 +1,8 @@
 {
   "FV-FSPJ-6QO0": {
-    "used": true,
-    "hwid": "HWID-BFC2113",
-    "usedBy": "User_FV",
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
     "expires": "2026-07-11",
     "firstUsedAt": "2026-07-04T18:43:01.654Z"
   },
