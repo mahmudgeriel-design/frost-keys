@@ -4,5 +4,11 @@
     "hwid": null,
     "usedBy": null,
     "expires": "2026-07-05"
+  },
+  "FV-4DE8-QSQR": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-05"
   }
 }
