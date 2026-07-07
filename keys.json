@@ -52,5 +52,12 @@
     "isPublic": false,
     "generated_by_promo": "FREEWEEK",
     "firstUsedAt": "2026-07-07T08:39:47.791Z"
+  },
+  "FV-VH26-M8KD": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-14",
+    "isPublic": false
   }
 }
