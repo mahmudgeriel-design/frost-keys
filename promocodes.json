@@ -1,0 +1,10 @@
+{
+  "FREEWEEK": {
+    "max_uses": 5,
+    "used_count": 0,
+    "days": 7,
+    "created_at": "2026-07-07",
+    "used_by": [],
+    "generated_keys": []
+  }
+}
