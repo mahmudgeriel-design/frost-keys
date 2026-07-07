@@ -43,5 +43,13 @@
     "usedBy": null,
     "expires": "2026-07-18",
     "isPublic": true
+  },
+  "FV-N6V0-US57": {
+    "used": false,
+    "hwid": null,
+    "usedBy": null,
+    "expires": "2026-07-14",
+    "isPublic": false,
+    "generated_by_promo": "FREEWEEK"
   }
 }
