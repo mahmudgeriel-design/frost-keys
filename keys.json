@@ -45,13 +45,13 @@
     "isPublic": true
   },
   "FV-N6V0-US57": {
-    "used": false,
-    "hwid": null,
-    "usedBy": null,
+    "used": true,
+    "hwid": "HWID-BFC2113",
+    "usedBy": "FrostVisual",
     "expires": "2026-07-14",
     "isPublic": false,
     "generated_by_promo": "FREEWEEK",
-    "firstUsedAt": "2026-07-07T08:39:47.791Z"
+    "firstUsedAt": "2026-07-13T14:47:39.096Z"
   },
   "FV-VH26-M8KD": {
     "used": false,
